@@ -58,6 +58,11 @@
   position: relative;
   right: 11.5%;
 }
+
+.newsletter div button:hover{
+  background-color: red;
+}
+
 .newsletter {
   /* existing styles */
 
